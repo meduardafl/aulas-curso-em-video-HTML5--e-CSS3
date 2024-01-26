@@ -1,2 +1,2 @@
 # Aulas do curso em vídeo.
- Alguns sites para iniciantes criados através do canal curso em vídeo de HTML5 e CSS3.
+ Alguns sites criados para iniciantes através do canal curso em vídeo em HTML5 e CSS3.
